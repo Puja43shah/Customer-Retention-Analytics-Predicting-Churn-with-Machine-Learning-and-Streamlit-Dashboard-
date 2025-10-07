@@ -239,7 +239,7 @@ ENV/
 *.pkl
 
 # ---- Data Files ----
-*.csv
+
 *.xlsx
 *.db
 *.xls
